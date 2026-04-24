@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Skola_Smp71.aternos.me",
+    "ip": "Skola_Smp71.aternos.me:32212",
     "port": 32212,
     "version": "",
     "try-creative": false
